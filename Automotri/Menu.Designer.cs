@@ -120,11 +120,11 @@
             this.button7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button7.BackgroundImage")));
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button7.Location = new System.Drawing.Point(390, 285);
+            this.button7.Location = new System.Drawing.Point(307, 245);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(193, 50);
             this.button7.TabIndex = 6;
-            this.button7.Text = "Cerrar";
+            this.button7.Text = "Pasa el pack papu";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             this.button7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.button7_MouseDown);
@@ -161,7 +161,7 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button1);
             this.Name = "Menu";
-            this.Text = "Menu";
+            this.Text = "Pasa el pack papu";
             this.Load += new System.EventHandler(this.Menu_Load);
             this.ResumeLayout(false);
 
